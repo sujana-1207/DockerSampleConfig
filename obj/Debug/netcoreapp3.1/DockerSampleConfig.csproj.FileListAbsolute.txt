@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\DockerSampleConfig\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lenovo\source\repos\DockerSampleConfig\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lenovo\source\repos\DockerSampleConfig\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Lenovo\source\repos\DockerSampleConfig\obj\Debug\netcoreapp3.1\DockerSampleConfig.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\DockerSampleConfig\obj\Debug\netcoreapp3.1\DockerSampleConfig.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DockerSampleConfig\obj\Debug\netcoreapp3.1\DockerSampleConfig.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DockerSampleConfig\obj\Debug\netcoreapp3.1\DockerSampleConfig.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\DockerSampleConfig\obj\Debug\netcoreapp3.1\staticwebassets\DockerSampleConfig.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo\source\repos\DockerSampleConfig\obj\Debug\netcoreapp3.1\staticwebassets\DockerSampleConfig.StaticWebAssets.xml
