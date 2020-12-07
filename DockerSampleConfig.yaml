@@ -6,11 +6,11 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      app: Dockersampleconfig
+      app: DockerSampleConfig
   template:
     metadata:
       labels:
-        app: Dockersampleconfig
+        app: DockerSampleConfig
     spec:
       containers:
       - name: dockersamplerepos
@@ -30,4 +30,4 @@ spec:
   ports:
   - port: 80
   selector:
-    app: Dockersampleconfig
+    app: DockerSampleConfig
